@@ -28,5 +28,6 @@ This document doesn't discuss any specific framework out of the above but genera
 |2|[Threat Modelling](./ThreatModelling.md)
 |3|[Cryptography Strategy](./CryptographyStrategy.md)
 |4|[Code Scanning](./CodeScanning.md)
-|5|[Securing the CI/CD workflow](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/secure/best-practices/secure-devops)
-|6|[Penetration Testing](https://docs.microsoft.com/en-us/azure/security/fundamentals/pen-testing)
+|5|[Open Source Security](./OpenSource.md)
+|6|[Securing the CI/CD workflow](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/secure/best-practices/secure-devops)
+|7|[Penetration Testing](https://docs.microsoft.com/en-us/azure/security/fundamentals/pen-testing)
