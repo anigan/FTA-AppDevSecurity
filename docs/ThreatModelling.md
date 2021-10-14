@@ -10,7 +10,7 @@ Reference: [Wikipedia](https://en.wikipedia.org/wiki/Threat_model)
 1. [Simple Questions Method](https://docs.microsoft.com/en-us/security/compass/applications-services#simple-questions-method)
 1. [STRIDE](https://en.wikipedia.org/wiki/STRIDE_(security)) and [OWASP](https://owasp.org/www-community/Threat_Modeling) approaches.
 1. [Getting started with the threat modelling tool](https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-getting-started).
-1. Possible example?
+
 
 
 Additional resources:
